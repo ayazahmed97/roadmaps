@@ -121,3 +121,5 @@
   - [Nader Dabit](https://www.youtube.com/user/boyindasouth)
   - [Harkirat Singh (Youtube)](https://www.youtube.com/playlist?list=PLVKLWop9wWA82pZoyylZD2VF2c7MR8_5I)
   - [Daulat Hussain (Youtube)](https://www.youtube.com/@daulathussain/featured)
+  - [Code Eater (Youtube)](https://www.youtube.com/@CodeEater21)
+
